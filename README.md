@@ -12,7 +12,7 @@ The Notebook contains the [REPORT](./notebook/dog_app.ipynb) required for this p
 
 ## Project Description
 This is the Capstone project for the Udacity Data Science Nanodegree course.
-For the packages used in the project, please take a look at [requirements.txt file](requirements.txt)
+For the packages used in the project, please take a look at [requirements file](requirements.txt)
 
 ### Project Overview
 This project will accept any user-supplied image as input. If a dog is detected within the image, it'll provide an estimate of the dog's breed. If somebody's is detected, it'll provide an estimate of the person that's most resembling.
@@ -64,7 +64,7 @@ Dog_breed_detection
 ## Installation Instruction
 Once you have pull the repo, or download and unzip this repo, please follow the step below to complete the setup.
 
-- Setup an environment (>= Python 3.6) and install packages from (requirements.txt)[requirements.txt].
+- Setup an environment (>= Python 3.6) and install packages from [requirements file](requirements.txt).
 
 ## Usage Instruction
 - After installing the packages, simply run `python run.py` and point you browser to http://127.0.0.1:8080/. The app itself is self-explanatory.
