@@ -47,10 +47,9 @@ Dog_breed_detection
 │
 └───haarcascades
 │   │   haarcascade_frontalface_alt.xml // model to detect human faces
-|	
-└───images
 │
 └───notebook
+|   |   images
 │   │   dog_app.ipynb
 |	|	download_workspace.ipynb
 |	|	extract_bottleneck_features.py
